@@ -31,7 +31,7 @@ export function Header() {
             <div className="container flex h-16 md:h-20 items-center justify-between px-4">
                 <Link href="/" className="flex items-center gap-2">
                     <div className="relative w-10 h-10 md:w-12 md:h-12 overflow-hidden rounded-full border-2 border-primary/20">
-                        <Image src="/placeholder.svg?height=48&width=48" alt="Goa Gajah Logo" fill className="object-cover" />
+                        <Image src="/image/goa-gajah-prof.jpg?height=48&width=48" alt="Goa Gajah Logo" fill className="object-cover" />
                     </div>
                     <span className={cn(
                         "text-xl md:text-2xl font-bold font-serif transition-colors",

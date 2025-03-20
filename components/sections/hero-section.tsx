@@ -10,9 +10,9 @@ import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 
 const heroImages = [
-    "/placeholder.svg?height=1080&width=1920&text=Goa+Gajah+Entrance",
-    "/placeholder.svg?height=1080&width=1920&text=Ancient+Bathing+Pools",
-    "/placeholder.svg?height=1080&width=1920&text=Temple+Courtyard",
+    "/image/goa-gajah.jpg?height=1080&width=1920&text=Goa+Gajah+Entrance",
+    "/image/goa-gajah.jpg?height=1080&width=1920&text=Ancient+Bathing+Pools",
+    "/image/pancuran-goa-gajah.jpg?height=1080&width=1920&text=Temple+Courtyard",
 ];
 
 export function HeroSection() {

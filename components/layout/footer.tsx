@@ -15,7 +15,7 @@ export function Footer() {
                     <div>
                         <Link href="/" className="flex items-center gap-2">
                             <div className="relative w-10 h-10 overflow-hidden rounded-full border-2 border-primary/20">
-                                <Image src="/placeholder.svg?height=40&width=40" alt="Goa Gajah" fill className="object-cover" />
+                                <Image src="/image/goa-gajah-prof.jpg?height=40&width=40" alt="Goa Gajah" fill className="object-cover" />
                             </div>
                             <span className="text-xl font-bold font-serif">{t("siteName")}</span>
                         </Link>

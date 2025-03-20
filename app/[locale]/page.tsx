@@ -10,6 +10,8 @@ import { VisitorInfoSection as SectionVisitorInfo } from "@/components/sections/
 import { MapSection as SectionMap } from "@/components/sections/map-section"
 import { TestimonialsSection as SectionTestimonials } from "@/components/sections/testimonials-section"
 import AOS from "aos"
+import TestimonialForm from "@/components/TestimonialForm"
+import TestimonialsList from "@/components/TestimonialsList"
 
 export default function Home() {
   useEffect(() => {
@@ -30,6 +32,10 @@ export default function Home() {
         <SectionVisitorInfo />
         <SectionMap />
         <SectionTestimonials />
+
+        {/* Section of New */}
+        <TestimonialForm />
+        {/* <TestimonialsList /> */}
       </main>
       <LayoutFooter />
     </div>

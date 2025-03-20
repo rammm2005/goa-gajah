@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Jayden",
+    "rating": 5,
+    "country": "Australia",
+    "city": "Sidney",
+    "feedback": "A very interesting historical site. The entrance to the cave is impressive with its detailed carvings. The surrounding area is also beautiful with lush greenery.",
+    "images": [
+      "/uploads/1742482301190_goa-gajah.jpg",
+      "/uploads/1742482301191_pancuran-goa-gajah.jpg"
+    ]
+  },
+  {
+    "name": "Putu Ayu",
+    "country": "Indoensia",
+    "city": "Gianyar",
+    "rating": 5,
+    "images": [],
+    "feedback": "Sebagai orang Bali, saya selalu bangga dengan warisan budaya seperti Goa Gajah. Tempat ini menyimpan banyak nilai spiritual dan sejarah yang penting untuk dilestarikan."
+  },
+  {
+    "name": "Hiroshi Tanaka",
+    "country": "Tokyo",
+    "city": "Japan",
+    "rating": 4.5,
+    "images": [],
+    "feedback": "Very interesting historical site. The entrance to the cave is impressive with its detailed carvings. The surrounding area is also beautiful with lush greenery."
+  }
+]

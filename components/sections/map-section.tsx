@@ -30,7 +30,7 @@ export function MapSection() {
                         data-aos="fade-right"
                     >
                         <Image
-                            src="/placeholder.svg?height=400&width=600&text=Map+of+Goa+Gajah"
+                            src="/image/goa-gajah-prof.jpg?height=400&width=600&text=Map+of+Goa+Gajah"
                             alt={t("mapSection.title")}
                             fill
                             className="object-cover"
