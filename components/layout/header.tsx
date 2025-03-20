@@ -35,7 +35,7 @@ export function Header() {
                     </div>
                     <span className={cn(
                         "text-xl md:text-2xl font-bold font-serif transition-colors",
-                        isScrolled ? "text-foreground" : "dark:text-slate-800 text-foreground"
+                        isScrolled ? "text-foreground" : "dark:text-slate-200 text-foreground"
                     )}>
                         Goa Gajah
                     </span>
@@ -69,7 +69,7 @@ function DesktopNav({ isScrolled }: { isScrolled: boolean }) {
                         href={href}
                         className={cn(
                             "text-sm font-medium transition-colors relative group",
-                            isScrolled ? "text-foreground hover:text-primary" : "dark:text-slate-800 text-foreground/90 hover:text-foreground"
+                            isScrolled ? "text-foreground hover:text-primary" : "dark:text-slate-200 text-foreground/90 hover:text-foreground"
                         )}
                     >
                         {label}
@@ -82,7 +82,7 @@ function DesktopNav({ isScrolled }: { isScrolled: boolean }) {
                 <LanguageSwitcher />
                 <Button
                     variant={isScrolled ? "default" : "default"}
-                    className={cn("transition-all", !isScrolled && "bg-white/20 dark:text-slate-800 hover:bg-white/30 text-foreground/90 hover:text-foreground border-white/30")}
+                    className={cn("transition-all", !isScrolled && "bg-black/20 dark:text-slate-200 hover:bg-black/50 text-foreground/90 hover:text-foreground border-black/50")}
                     asChild
                 >
                     <Link href="#visitor-info">{visit("visit-now")}</Link>

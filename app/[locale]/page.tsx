@@ -21,7 +21,7 @@ export default function Home() {
   }, [])
 
   return (
-    <div className="flex min-h-screen flex-col bg-stone-50">
+    <div className="flex min-h-screen flex-col">
       <LayoutHeader />
       <main className="flex-1 px-4">
         <SectionHero />
