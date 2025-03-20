@@ -1,0 +1,117 @@
+{
+    "history": {
+        "title": "Histoire de la Danse Sahadewa Kecak à Pura Puseh",
+        "description": "La danse Sahadewa Kecak existe depuis 34 ans et est dirigée par Dewatages, avec pour objectif de préserver et de développer l'art de la danse traditionnelle balinaise. La danse Sahadewa Kecak est présentée à Pura Puseh, Batubulan."
+    },
+    "footer": {
+        "title": "Sahadewa Kecak",
+        "contact": "Contact : ",
+        "slogan": "Préserver l'héritage culturel balinais depuis 1972.",
+        "hak-cipta": "Tous droits réservés, protégés par la loi"
+    },
+    "about": {
+        "title": "Histoire de la Danse Sahadewa Kecak",
+        "sub-title": "À Pura Puseh",
+        "content": {
+            "title": "Centre d'Art Sahadewa",
+            "sub-desc": "Le Centre d'Art Sahadewa a été fondé par I Dewa Nyoman Oka le 1er avril 1972. Depuis plus de cinquante ans, ce centre d'art s'efforce de préserver et de présenter les riches traditions artistiques balinaises, en particulier l'impressionnante danse Kecak."
+        },
+        "founder": {
+            "as": "Fondateur",
+            "name": "I Dewa Nyoman Oka",
+            "since": "(1923 - 1999)",
+            "description": "Aujourd'hui, le Centre d'Art Sahadewa continue de se développer sous la direction de la deuxième génération, I Dewa Made Teges Wirawan, avec un engagement ferme à perpétuer l'héritage culturel et l'excellence artistique établis par leurs prédécesseurs."
+        },
+        "co-founder": {
+            "as": "Gestion actuelle",
+            "image": "/image/founder-1.jpg",
+            "current": "Gestion actuelle",
+            "name": "I Dewa Made Teges Wirawan",
+            "description": "Deuxième génération de gestion"
+        },
+        "show": {
+            "title": "Spectacle Quotidien de la Danse Kecak",
+            "description": "Le Centre d'Art Sahadewa continue de présenter quotidiennement des spectacles authentiques de la danse Kecak, maintenant une tradition culturelle d'une grande importance pour les habitants et les visiteurs.",
+            "showing": "Horaire des spectacles",
+            "time": "18.30 - 19.30 WITA",
+            "note": "(Le spectacle de Kecak a lieu chaque nuit.)"
+        }
+    },
+    "blog": {
+        "read_now": "Lire maintenant",
+        "min_read": "{count} minutes de lecture",
+        "category": "Catégorie",
+        "description": "Description",
+        "title": "Titre",
+        "home": "Accueil",
+        "blog": "Blog",
+        "back_to_articles": "Retour aux articles"
+    },
+    "blog-posts": {
+        "1": {
+            "title": "Danse Kecak et Shanghyang Jaran à Batubulan",
+            "description": "La danse Kecak existe depuis les années 1930. I Wayan Limbak, originaire de Bedulu, Gianyar, est la figure derrière la création de cette danse. À l'origine, la danse Kecak était utilisée par les paysans pour exprimer leur gratitude pour les récoltes et prier pour la pluie et la prospérité. Ce n'est qu'en 1991 qu'elle a été introduite dans le village de Batubulan, combinée avec les danses Shanghyang Dedari et Shanghyang Jaran pour les touristes.",
+            "category": "Kecak",
+            "readTime": "5 minutes de lecture",
+            "place": "Pura Puseh, Batubulan",
+            "direction": "https://maps.app.goo.gl/jiPDJnAdWz1b7a1cA",
+            "kecak_and_sanghyang_dance": {
+                "title": "Danse Kecak et Sanghyang",
+                "content": {
+                    "h1": {
+                        "title": "Danse Kecak",
+                        "description": "Le Kecak est la danse balinaise la plus unique car elle n'est pas accompagnée par un gamelan mais par un chœur d'hommes torse nu. Elle est issue d'une danse rituelle ancienne appelée \"Sanghyang\", où les danseurs entrent en transe pour transmettre des messages des dieux ou des ancêtres.",
+                        "h2": {
+                            "title": "L'histoire du Ramayana dans la danse Kecak",
+                            "description": "Cette danse raconte l'histoire du Ramayana lorsque l'épouse du prince Rama, Sita, est enlevée par le roi démoniaque Ravana. Accompagnée par le chœur masculin, la danse montre comment Rama, avec l'aide de Hanuman, le dieu singe, vainc Ravana et sauve Sita.",
+                            "h3": {
+                                "title": "Les actes dans la danse Kecak",
+                                "h4": [
+                                    {
+                                        "title": "Acte 1. Rama, Sita et le cerf d'or",
+                                        "image": "/image/hanuman-sinta-trijata.jpg",
+                                        "description": "Rama, Sita et Laksmana entrent en scène. Un cerf d'or apparaît et Sita demande à Rama de le capturer. Rama part, laissant Sita sous la protection de Laksmana."
+                                    },
+                                    {
+                                        "title": "Acte 2. Sita et Ravana",
+                                        "image": "/image/kecak-slider.jpg",
+                                        "description": "Ravana apparaît, enlève Sita et l'emmène dans son palais à Alengka."
+                                    },
+                                    {
+                                        "title": "Acte 3. Sita, Trijata et Hanuman",
+                                        "image": "/image/hanuman-sinta-trijata.jpg",
+                                        "description": "Accompagnée de Trijata, Sita pleure son sort dans le jardin du palais. Hanuman apparaît et transmet un message de Rama."
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "h1_2": {
+                        "title": "Danse Sanghyang Dedari",
+                        "image": "/image/shanghyang-dedari.webp",
+                        "description": "La danse Sanghyang a évolué d'une fonction religieuse pour protéger la santé et le bien-être du village contre les esprits malins.",
+                        "h2": {
+                            "title": "Rituel de la danse Sanghyang Dedari",
+                            "description": "Le rituel invoque des esprits divins qui possèdent temporairement les danseuses en transe. Sanghyang signifie \"pur\" et Dedari signifie \"ange\".",
+                            "h3": {
+                                "title": "Performance de la danse Sanghyang Dedari",
+                                "description": "Dansée par deux jeunes filles sans ornements, considérée comme sacrée."
+                            }
+                        }
+                    },
+                    "h1_3": {
+                        "title": "Danse Sanghyang Jaran",
+                        "image": "/image/shanghyang-jaran-1.jpg",
+                        "description": "Un danseur en transe danse sur un cheval (jaran) autour d'un feu, guidé par des chants."
+                    }
+                }
+            },
+            "content": "La danse Kecak est l'une des danses traditionnelles balinaises les plus célèbres. Généralement présentée dans des temples ou en plein air, elle met en scène des dizaines voire des centaines de danseurs formant un cercle. Le Kecak puise son origine dans le rituel hindou Sanghyang destiné à chasser les esprits malins."
+        }
+    },
+    "search": {
+        "search_placeholder": "Rechercher un article...",
+        "search_title": "Rechercher une histoire",
+        "no_results": "Aucun résultat trouvé"
+    }
+}

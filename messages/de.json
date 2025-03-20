@@ -1,0 +1,131 @@
+{
+    "history": {
+        "title": "Die Geschichte des Kecak-Tanzes Sahadewa im Pura Puseh",
+        "description": "Der Sahadewa Kecak-Tanz existiert seit 34 Jahren und wird von Dewa Teges geleitet, mit dem Ziel, die traditionelle balinesische Tanzkunst zu bewahren und weiterzuentwickeln. Die Aufführungen finden im Pura Puseh Batubulan statt."
+    },
+    "footer": {
+        "title": "Kecak Sahadewa",
+        "contact": "Kontakt : ",
+        "slogan": "Die balinesische Kultur seit 1972 bewahren.",
+        "hak-cipta": "Alle Urheberrechte vorbehalten"
+    },
+    "about": {
+        "title": "Die Geschichte des Kecak-Tanzes Sahadewa",
+        "sub-title": "im Pura Puseh",
+        "content": {
+            "title": "Sanggar Sahadewa",
+            "sub-desc": "Sahadewa, als ein Kunststudio, wurde am 1. April 1972 von I Dewa Nyoman Oka gegründet. Seit mehr als fünf Jahrzehnten bewahrt und präsentiert das Studio die reiche Tradition der balinesischen Bühnenkunst, insbesondere den faszinierenden Kecak-Tanz."
+        },
+        "founder": {
+            "as": "Gründer",
+            "name": "I Dewa Nyoman Oka",
+            "since": "(1923 - 1999)",
+            "description": "Heute wird das Sanggar Sahadewa unter der Leitung der zweiten Generation, I Dewa Made Teges Wirawan, weitergeführt, die sich verpflichtet, das kulturelle Erbe und die künstlerische Exzellenz seiner Vorgänger zu bewahren."
+        },
+        "co-founder": {
+            "as": "Aktuelles Management",
+            "image": "/image/founder-1.jpg",
+            "current": "Aktuelles Management",
+            "name": "I Dewa Made Teges Wirawan",
+            "description": "Zweite Generation"
+        },
+        "show": {
+            "title": "Tägliche Kecak-Tanzaufführungen",
+            "description": "Das Sanggar Sahadewa präsentiert weiterhin authentische Kecak-Tanzaufführungen täglich, um die kulturellen Traditionen für die Einheimischen und Besucher zu bewahren.",
+            "showing": "Aufführungszeit",
+            "time": "18.30 - 19.30 WITA",
+            "note": "(Kecak-Aufführung findet jede Nacht statt.)"
+        }
+    },
+    "blog": {
+        "read_now": "Jetzt lesen",
+        "min_read": "{count} Minuten Lesezeit",
+        "category": "Kategorie",
+        "description": "Beschreibung",
+        "title": "Titel",
+        "home": "Startseite",
+        "blog": "Blog",
+        "back_to_articles": "Zurück zu den Artikeln"
+    },
+    "search": {
+        "search_placeholder": "Artikel suchen...",
+        "search_title": "Geschichte suchen",
+        "no_results": "Keine Ergebnisse gefunden"
+    },
+    "blog-posts": {
+        "1": {
+            "title": "Kecak- und Shanghyang-Jaran-Tanz in Batubulan",
+            "description": "Der Kecak-Tanz existiert seit den 1930er Jahren. I Wayan Limbak, die Person hinter der Entstehung des Kecak-Tanzes, stammt aus Bedulu, Gianyar. Ursprünglich wurde der Kecak-Tanz von Bauern verwendet, um für Nahrung zu danken und um Regen sowie Wohlstand zu bitten. Erst um 1991 wurde er im Dorf Batubulan eingeführt, kombiniert mit den Tänzen Shanghyang Dedari und Shanghyang Jaran, die den Touristen vorgestellt wurden.",
+            "category": "Kecak",
+            "readTime": "5 Minuten Lesezeit",
+            "place": "Pura Puseh, Batubulan",
+            "direction": "https://maps.app.goo.gl/jiPDJnAdWz1b7a1cA",
+            "kecak_and_sanghyang_dance": {
+                "title": "Kecak- und Sanghyang-Tanz",
+                "content": {
+                    "h1": {
+                        "title": "Kecak-Tanz",
+                        "description": "Der Kecak ist der einzigartigste Tanz Balis, da er nicht von Gamelan-Musik begleitet wird, sondern von einem Männerchor, der oberkörperfrei singt. Dieser Tanz basiert auf dem alten rituellen Tanz \"Sanghyang\", einem Trance-Tanz, bei dem die Tänzer als Medium dienen, um mit Göttern oder Ahnengeistern zu kommunizieren und deren Botschaften zu übermitteln.",
+                        "h2": {
+                            "title": "Die Ramayana-Geschichte im Kecak-Tanz",
+                            "description": "Dieser Tanz erzählt die Ramayana-Geschichte, in der die Frau von Prinz Rama, Göttin Sita, vom bösen König Rahwana entführt wird. Begleitet vom Männerchor erzählt der Tanz, wie Rama mit Hilfe von Hanuman, dem Affengott, Rahwana besiegt und Sita rettet.",
+                            "h3": {
+                                "title": "Szenen im Kecak-Tanz",
+                                "h4": [
+                                    {
+                                        "title": "Szene 1. Rama, Sita und der goldene Hirsch",
+                                        "image": "/image/hanuman-sinta-trijata.jpg",
+                                        "description": "Rama, Sita und Laksmana betreten die Bühne. Ein goldener Hirsch erscheint. Sita bittet Rama, den Hirsch zu fangen. Rama verlässt Sita unter dem Schutz von Laksmana. Kurz darauf ertönt ein Hilferuf. Sita denkt, es sei Rama, und bittet Laksmana um Hilfe. Zunächst weigert sich Laksmana, sie allein zu lassen."
+                                    },
+                                    {
+                                        "title": "Szene 2. Sita und Rahwana",
+                                        "image": "/image/kecak-slider.jpg",
+                                        "description": "Rahwana erscheint, entführt Sita und bringt sie in seinen Palast in Alengka."
+                                    },
+                                    {
+                                        "title": "Szene 3. Sita, Trijata und Hanuman",
+                                        "image": "/image/hanuman-sinta-trijata.jpg",
+                                        "description": "Begleitet von Trijata, Rahwanas Nichte, beklagt Sita ihr Schicksal im Palastgarten. Hanuman (der weiße Affe) erscheint und zeigt Sita Ramas Ring als Zeichen. Sita gibt Hanuman eine Haarnadel und eine Nachricht für Rama."
+                                    },
+                                    {
+                                        "title": "Szene 4. Rama, Meganada und Garuda",
+                                        "image": "/image/garuda.jpg",
+                                        "description": "Beschreibt den Kampf zwischen Rama und Meganada, Rahwanas Sohn. Meganada schießt einen magischen Pfeil, der sich in eine Schlange verwandelt und Rama fesselt. In seiner Verzweiflung ruft Rama Garuda, der ihn befreit."
+                                    },
+                                    {
+                                        "title": "Szene 5. Rama, Sugriwa und Meganada",
+                                        "image": "/image/Rama, Sugriwa, dan Meganada.jpg",
+                                        "description": "Sugriwa, der Affenkönig, erscheint. Es kommt zum Kampf zwischen Sugriwa und Meganada. Die Vorstellung endet mit dem Sieg Ramas. Schließlich kehren Rama, Sita und Laksmana glücklich zurück."
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "h1_2": {
+                        "title": "Shanghyang Dedari-Tanz",
+                        "image": "/image/shanghyang-dedari.webp",
+                        "description": "Der Shanghyang-Tanz entwickelte sich aus religiösen Funktionen zum Schutz der Gesundheit und des Wohlstands des Dorfes. Er wird aufgeführt, um böse Geister abzuwehren.",
+                        "h2": {
+                            "title": "Rituale des Shanghyang Dedari-Tanzes",
+                            "description": "Der Shanghyang Dedari-Tanz ist ein Ritual, bei dem göttliche Geister vorübergehend ins Dorf kommen und sich durch die Tänzer manifestieren, die in Trance sind.",
+                            "h3": {
+                                "title": "Vorstellung des Shanghyang Dedari-Tanzes",
+                                "description": "Wird von zwei jungen Mädchen ohne Schmuck getanzt. Für die Mädchen gilt der Tanz als heilig. Die Zeremonie beginnt im Tempel und wird in einer Prozession fortgesetzt.",
+                                "h4": {
+                                    "title": "Trance und Segnung",
+                                    "description": "Zwischen den Gesängen der Männer und Frauen bewegen sich die jungen Tänzerinnen frei. Wenn die Gesänge aufhören, springen die Mädchen zu Boden und werden von einem Priester mit heiligem Wasser gesegnet."
+                                }
+                            }
+                        }
+                    },
+                    "h1_3": {
+                        "title": "Shanghyang Jaran-Tanz",
+                        "image": "/image/shanghyang-jaran-1.jpg",
+                        "description": "Ein männlicher Tänzer in Trance tanzt auf einem Pferd (Jaran) um ein Feuer aus Kokosnussschalen. Der Sanghyang-Gesang führt ihn ins Feuer, wo er weiter tanzt."
+                    }
+                }
+            },
+            "content": "Der Kecak-Tanz ist einer der bekanntesten traditionellen Tänze Balis. Er wird normalerweise in Tempeln oder unter freiem Himmel aufgeführt, wobei Dutzende oder sogar Hunderte von Tänzern einen Kreis bilden. Der Kecak-Tanz basiert auf dem hinduistischen Ritual Sanghyang, das dazu dient, böse Geister zu vertreiben. Die Bewegungen und Gesänge der Kecak-Tänzer werden von dem Geräusch cak-cak-cak begleitet, das von den Tänzern selbst erzeugt wird. Der Kecak-Tanz ist besonders berühmt, weil er keine Musikinstrumente verwendet, sondern nur menschliche Stimmen. Die erzählte Geschichte basiert normalerweise auf der Ramayana-Saga, mit Hauptfiguren wie Rama, Sita und Rahwana. Während der Vorstellung zeigen die Kecak-Tänzer den Kampf zwischen Rama und Rahwana voller Energie und Dramatik."
+        }
+    }
+}

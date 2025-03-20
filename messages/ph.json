@@ -1,0 +1,131 @@
+{
+    "history": {
+        "title": "Kasaysayan ng Sayaw na Sahadewa Kecak sa Pura Puseh",
+        "description": "Ang Sayaw na Sahadewa Kecak ay itinatag 34 na taon na ang nakalipas at pinamamahalaan ni Dewa Teges, na may layuning mapanatili at paunlarin ang tradisyunal na sayaw ng Bali. Ang Sahadewa Kecak ay itinanghal sa Pura Puseh sa Batubulan."
+    },
+    "footer": {
+        "title": "Sahadewa Kecak",
+        "contact": "Makipag-ugnayan : ",
+        "slogan": "Pinangangalagaan ang pamana ng kultura ng Bali mula pa noong 1972.",
+        "hak-cipta": "Ang lahat ng karapatang-ari ay protektado ng batas"
+    },
+    "about": {
+        "title": "Kasaysayan ng Sayaw na Sahadewa Kecak",
+        "sub-title": "Sa Pura Puseh",
+        "content": {
+            "title": "Sahadewa Art Studio",
+            "sub-desc": "Ang Sahadewa ay isang art studio na itinatag noong Abril 1, 1972, ni I Dewa Nyoman Oka. Sa loob ng mahigit 50 taon, pinanatili at itinanghal ng studio na ito ang mayamang tradisyonal na sining ng Bali, lalo na ang kamangha-manghang sayaw na Kecak."
+        },
+        "founder": {
+            "as": "Tagapagtatag",
+            "name": "I Dewa Nyoman Oka",
+            "since": "(1923 - 1999)",
+            "description": "Sa kasalukuyan, ang Sahadewa Art Studio ay patuloy na umuunlad sa pamamahala ng pangalawang henerasyon na si I Dewa Made Teges Wirawan, na pinangangalagaan ang pamana ng kultura at kahusayan sa sining na iniwan ng naunang henerasyon."
+        },
+        "co-founder": {
+            "as": "Kasalukuyang Tagapamahala",
+            "image": "/image/founder-1.jpg",
+            "current": "Kasalukuyang Tagapamahala",
+            "name": "I Dewa Made Teges Wirawan",
+            "description": "Ikalawang Henerasyon"
+        },
+        "show": {
+            "title": "Pang-araw-araw na Tanghal ng Sayaw na Kecak",
+            "description": "Ang Sahadewa Art Studio ay nagtatanghal araw-araw ng autentikong sayaw na Kecak habang pinapanatili ang mahalagang tradisyon ng kultura para sa mga lokal at bisita.",
+            "showing": "Oras ng Tanghal",
+            "time": "18.30 - 19.30 WITA",
+            "note": "(Ang pagtatanghal ng Kecak ay ginaganap tuwing gabi.)"
+        }
+    },
+    "blog": {
+        "read_now": "Basahin Ngayon",
+        "min_read": "{count} minuto basahin",
+        "category": "Kategorya",
+        "description": "Paglalarawan",
+        "title": "Pamagat",
+        "home": "Tahanan",
+        "blog": "Blog",
+        "back_to_articles": "Bumalik sa Mga Artikulo"
+    },
+    "blog-posts": {
+        "1": {
+            "title": "Sayaw ng Kecak at Shanghyang Jaran sa Batubulan",
+            "description": "Ang Sayaw ng Kecak ay nagmula pa noong 1930, si I Wayan Limbak ang taong nasa likod ng paglikha ng sayaw na ito at nagmula sa Bedulu, Gianyar. Ang sayaw na ito ay orihinal na ginagamit ng mga magsasaka upang magpasalamat para sa ani at humiling ng ulan at kasaganaan. Noong bandang 1991, sinimulan itong ipakilala sa nayon ng Batubulan, kasama ang kombinasyon ng sayaw na Shanghyang Dedari at Shanghyang Jaran na ipinakilala para sa mga turista.",
+            "category": "Kecak",
+            "readTime": "5 minuto na basa",
+            "place": "Pura Puseh, Batubulan",
+            "direction": "https://maps.app.goo.gl/jiPDJnAdWz1b7a1cA",
+            "kecak_and_sanghyang_dance": {
+                "title": "Sayaw ng Kecak at Sanghyang",
+                "content": {
+                    "h1": {
+                        "title": "Sayaw ng Kecak",
+                        "description": "Ang Kecak ay isa sa pinakamakakaibang sayaw ng Bali dahil hindi ito sinasamahan ng gamelan kundi ng koro ng mga lalaking walang damit pang-itaas. Ang sayaw na ito ay nagmula sa sinaunang ritwal na \"Sanghyang\", isang sayaw ng pagkalunod kung saan ang mga mananayaw ay nagiging medium upang makipag-usap sa mga diyos o mga espiritu ng ninuno at maghatid ng kanilang mga mensahe.",
+                        "h2": {
+                            "title": "Ang Kuwento ng Ramayana sa Sayaw ng Kecak",
+                            "description": "Ipinapakita ng sayaw na ito ang kuwento ng Ramayana nang si Dewi Sita, ang asawa ni Prinsipe Rama, ay dinukot ng masamang hari na si Rahwana. Kasama ang koro ng mga lalaki, isinasalaysay ng sayaw kung paano, sa tulong ni Hanoman, ang diyos ng unggoy, natalo ni Rama si Rahwana at nailigtas si Sita.",
+                            "h3": {
+                                "title": "Mga Yugto sa Sayaw ng Kecak",
+                                "h4": [
+                                    {
+                                        "title": "Yugto 1. Rama, Sita, at ang gintong usa",
+                                        "image": "/image/hanuman-sinta-trijata.jpg",
+                                        "description": "Si Rama, Sita, at Laksmana ay pumapasok sa entablado. Pagkatapos ay lilitaw ang isang gintong usa. Hiniling ni Sita kay Rama na hulihin ang usa. Iniwan ni Rama si Sita sa ilalim ng proteksyon ni Laksmana. Hindi nagtagal ay narinig ang sigaw ng tulong. Inakala ni Sita na iyon ang tinig ni Rama at nakiusap kay Laksmana na tulungan siya."
+                                    },
+                                    {
+                                        "title": "Yugto 2. Sita at Rahwana",
+                                        "image": "/image/kecak-slider.jpg",
+                                        "description": "Lumilitaw si Rahwana, dinudukot at dinadala si Sita sa kanyang palasyo sa Alengka."
+                                    },
+                                    {
+                                        "title": "Yugto 3. Sita, Trijata, at Hanoman",
+                                        "image": "/image/hanuman-sinta-trijata.jpg",
+                                        "description": "Kasama si Trijata, pamangkin ni Rahwana, nagdadalamhati si Sita sa kanyang kapalaran sa hardin ng palasyo. Lumilitaw si Hanoman at ipinapakita ang singsing ni Rama bilang patunay. Binigyan ni Sita si Hanoman ng palamuti bilang mensahe para kay Rama."
+                                    },
+                                    {
+                                        "title": "Yugto 4. Rama, Meganada, at Garuda",
+                                        "image": "/image/garuda.jpg",
+                                        "description": "Ipinapakita ang laban ni Rama laban kay Meganada, anak ni Rahwana. Sa tulong ni Garuda, nakatakas si Rama mula sa patibong ni Meganada."
+                                    },
+                                    {
+                                        "title": "Yugto 5. Rama, Sugriwa, at Meganada",
+                                        "image": "/image/Rama, Sugriwa, dan Meganada.jpg",
+                                        "description": "Nagaganap ang labanan sa pagitan ni Sugriwa at Meganada. Nagtatapos ang palabas sa tagumpay ni Rama at ang masayang pagbabalik nila ni Sita."
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "h1_2": {
+                        "title": "Sayaw ng Sanghyang Dedari",
+                        "image": "/image/shanghyang-dedari.webp",
+                        "description": "Ang sayaw na Sanghyang ay nagmula sa mga ritwal na may layuning protektahan ang komunidad mula sa masasamang espiritu. Ito ay isinasagawa upang magtaboy ng mga sakit o kamatayan na dala ng masasamang espiritu.",
+                        "h2": {
+                            "title": "Ritwal ng Sayaw ng Sanghyang Dedari",
+                            "description": "Ito ay isang ritwal kung saan ang banal na espiritu ay pansamantalang bumababa sa nayon at nagpapakita sa mga mananayaw na nasa kalagayan ng trance.",
+                            "h3": {
+                                "title": "Pagtatanghal ng Sayaw ng Sanghyang Dedari",
+                                "description": "Isinasayaw ng dalawang batang babae na walang palamuti. Ang seremonya ay nagsisimula sa templo at nagtatapos sa lugar ng pagtatanghal.",
+                                "h4": {
+                                    "title": "Trance at Pagpapala",
+                                    "description": "Habang sinasabayan ng koro, ang mga mananayaw ay gumagalaw ng awtomatiko sa trance. Ang seremonya ay nagtatapos sa pagbibigay ng basbas mula sa pari gamit ang banal na tubig."
+                                }
+                            }
+                        }
+                    },
+                    "h1_3": {
+                        "title": "Sayaw ng Sanghyang Jaran",
+                        "image": "/image/shanghyang-jaran-1.jpg",
+                        "description": "Isinasayaw ng isang lalaking nasa trance na nagpapanggap na kabayo, umiikot sa paligid ng apoy at naglalakad sa ibabaw nito."
+                    }
+                }
+            },
+            "content": "Ang Sayaw ng Kecak ay isa sa mga pinakatanyag na tradisyonal na sayaw ng Bali. Karaniwang isinasagawa ito sa mga templo o sa mga bukas na lugar, na ginagamitan ng dose-dosenang o kahit daan-daang mga mananayaw na bumubuo ng bilog. Ang sayaw na ito ay nagmula sa ritwal na Sanghyang na naglalayong magtaboy ng masasamang espiritu. Ang mga kilos at awit ng mga mananayaw ay sinasamahan ng tunog na \"cak-cak-cak\" na kanilang ginagawa mismo. Kilala ang sayaw na ito dahil hindi ito gumagamit ng instrumentong musikal kundi ang boses ng mga mananayaw lamang."
+        }
+    },
+    "search": {
+        "search_placeholder": "Maghanap ng artikulo...",
+        "search_title": "Maghanap ng Kuwento",
+        "no_results": "Walang nahanap na resulta"
+    }
+}

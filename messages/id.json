@@ -1,0 +1,291 @@
+{
+    "aboutSection": {
+        "title": "Tentang Goa Gajah",
+        "subtitle": "Mengenal lebih dekat situs arkeologi bersejarah yang menjadi warisan budaya Bali",
+        "sections": [
+            {
+                "title": "Sejarah & Warisan",
+                "content": "Goa Gajah atau 'Gua Gajah' diperkirakan dibangun pada abad ke-11 sebagai tempat meditasi. Situs ini menampilkan perpaduan unik antara agama Hindu dan Buddha, mencerminkan sejarah spiritual yang kaya di Bali. Goa ini ditemukan oleh arkeolog Belanda pada tahun 1923, dan kemudian ditetapkan sebagai situs warisan budaya."
+            },
+            {
+                "title": "Arsitektur & Keunikan",
+                "content": "Pintu masuk goa yang mengesankan diukir menyerupai wajah raksasa (kala), yang oleh penduduk setempat dianggap menyerupai gajah, sehingga memberi nama pada tempat ini. Di dalam goa terdapat patung Ganesha dan lingga-yoni yang menunjukkan pengaruh Hindu, sementara kolam pemandian kuno dengan patung dewi air menunjukkan keindahan arsitektur Bali kuno."
+            },
+            {
+                "title": "Nilai Spiritual",
+                "content": "Hingga saat ini, Goa Gajah masih menjadi tempat upacara keagamaan bagi masyarakat Hindu Bali. Pengunjung dapat menyaksikan persembahan dan upacara yang dilakukan di beberapa pura di sekitar kompleks."
+            }
+        ],
+        "galleryButton": "Lihat Galeri"
+    },
+    "gallerySection": {
+        "title": "Galeri Goa Gajah",
+        "subtitle": "Keindahan dan keunikan Goa Gajah melalui lensa kamera",
+        "images": [
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Entrance+Carving",
+                "alt": "Ukiran Pintu Masuk Goa Gajah",
+                "title": "Ukiran Pintu Masuk"
+            },
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Ancient+Bathing+Pools",
+                "alt": "Kolam Pemandian Kuno",
+                "title": "Kolam Pemandian Kuno"
+            },
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Inside+The+Cave",
+                "alt": "Bagian Dalam Goa",
+                "title": "Bagian Dalam Goa"
+            },
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Ganesh+Statue",
+                "alt": "Patung Ganesha",
+                "title": "Patung Ganesha"
+            },
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Temple+Courtyard",
+                "alt": "Halaman Pura",
+                "title": "Halaman Pura"
+            },
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Surrounding+Nature",
+                "alt": "Alam Sekitar Goa Gajah",
+                "title": "Alam Sekitar"
+            }
+        ],
+        "viewAllButton": "Lihat Semua Foto"
+    },
+    "navLinks": {
+        "about": {
+            "href": "#about",
+            "label": "Tentang"
+        },
+        "gallery": {
+            "href": "#gallery",
+            "label": "Galeri"
+        },
+        "visitorInfo": {
+            "href": "#visitor-info",
+            "label": "Informasi Pengunjung"
+        },
+        "location": {
+            "href": "#location",
+            "label": "Lokasi"
+        },
+        "testimonials": {
+            "href": "#testimonials",
+            "label": "Testimoni"
+        }
+    },
+    "heroSection": {
+        "title": "Temukan Keindahan",
+        "subtitle": "Goa Gajah",
+        "description": "Jelajahi keajaiban arkeologi kuno dan keindahan spiritual di Goa Gajah, situs warisan budaya yang menakjubkan di Bali.",
+        "learnMoreButton": "Pelajari Lebih Lanjut",
+        "visitPlanButton": "Rencana Kunjungan",
+        "infoCards": [
+            {
+                "icon": "Clock",
+                "title": "Jam Buka",
+                "description": "08:00 - 17:00 WITA"
+            },
+            {
+                "icon": "MapPin",
+                "title": "Lokasi",
+                "description": "Desa Bedulu, Gianyar, Bali"
+            },
+            {
+                "icon": "Calendar",
+                "title": "Tiket Masuk",
+                "description": "Rp 50.000 (Dewasa) / Rp 25.000 (Anak)"
+            }
+        ]
+    },
+    "visit-now": "Berkunjung Sekarang",
+    "mapSection": {
+        "link-map": "https://maps.app.goo.gl/Rw11P9wpc6sur1Fa9",
+        "text-map": "Lokasi Goa Gajah",
+        "title": "Lokasi",
+        "subtitle": "Temukan cara menuju Goa Gajah di Desa Bedulu, Gianyar, Bali",
+        "address": {
+            "title": "Alamat",
+            "description": "Goa Gajah, Jalan Raya Goa Gajah, Desa Bedulu, Kecamatan Blahbatuh, Kabupaten Gianyar, Bali 80581"
+        },
+        "distances": {
+            "title": "Jarak dari Lokasi Populer",
+            "items": {
+                "bandara": {
+                    "from": "Dari Bandara Ngurah Rai",
+                    "distance": "±40 km (1,5 jam)"
+                },
+                "denpasar": {
+                    "from": "Dari Denpasar",
+                    "distance": "±25 km (45 menit)"
+                },
+                "ubud": {
+                    "from": "Dari Ubud",
+                    "distance": "±5 km (15 menit)"
+                },
+                "kuta": {
+                    "from": "Dari Kuta",
+                    "distance": "±35 km (1 jam)"
+                }
+            }
+        },
+        "nearbyAttractions": {
+            "title": "Tempat Wisata Terdekat",
+            "items": {
+                "yehPulu": {
+                    "name": "Yeh Pulu",
+                    "description": "Relief batu kuno (±2 km)"
+                },
+                "museumBedulu": {
+                    "name": "Museum Purbakala Bedulu",
+                    "description": "Museum arkeologi (±1 km)"
+                },
+                "puraSamuanTiga": {
+                    "name": "Pura Samuan Tiga",
+                    "description": "Pura bersejarah (±3 km)"
+                }
+            }
+        }
+    },
+    "testimonialsSection": {
+        "title": "Testimoni Pengunjung",
+        "subtitle": "Apa kata mereka yang telah mengunjungi Goa Gajah",
+        "testimonials": [
+            {
+                "name": "Budi Santoso",
+                "location": "Jakarta, Indonesia",
+                "rating": 5,
+                "comment": "Tempat yang sangat bersejarah dan menarik. Pemandunya sangat berpengetahuan dan menjelaskan sejarah dengan detail. Sangat direkomendasikan untuk pecinta sejarah dan budaya."
+            },
+            {
+                "name": "Sarah Johnson",
+                "location": "Sydney, Australia",
+                "rating": 4,
+                "comment": "A fascinating historical site with beautiful carvings. The bathing pools were particularly interesting. Would recommend visiting early in the morning to avoid crowds."
+            },
+            {
+                "name": "Putu Ayu",
+                "location": "Denpasar, Bali",
+                "rating": 5,
+                "comment": "Sebagai orang Bali, saya selalu bangga dengan warisan budaya seperti Goa Gajah. Tempat ini menyimpan banyak nilai spiritual dan sejarah yang penting untuk dilestarikan."
+            },
+            {
+                "name": "Hiroshi Tanaka",
+                "location": "Tokyo, Japan",
+                "rating": 4,
+                "comment": "Very interesting historical site. The entrance to the cave is impressive with its detailed carvings. The surrounding area is also beautiful with lush greenery."
+            },
+            {
+                "name": "Maria Garcia",
+                "location": "Barcelona, Spain",
+                "rating": 5,
+                "comment": "An incredible archaeological site! I was amazed by the ancient bathing pools and the cave temple. The local guide provided excellent information about the history and significance."
+            },
+            {
+                "name": "Wayan Dharma",
+                "location": "Gianyar, Bali",
+                "rating": 5,
+                "comment": "Sebagai pemandu lokal, saya selalu senang melihat pengunjung yang tertarik dengan sejarah Goa Gajah. Tempat ini memiliki nilai yang sangat berharga bagi masyarakat Bali."
+            }
+        ]
+    },
+    "visitorInfoSection": {
+        "title": "Informasi Pengunjung",
+        "subtitle": "Semua yang perlu Anda ketahui untuk merencanakan kunjungan ke Goa Gajah",
+        "infoCards": [
+            {
+                "icon": "Clock",
+                "title": "Jam Operasional",
+                "content": {
+                    "days": "Senin - Minggu",
+                    "hours": "08:00 - 17:00 WITA",
+                    "note": "Disarankan untuk mengunjungi pada pagi hari untuk menghindari keramaian dan cuaca panas."
+                }
+            },
+            {
+                "icon": "Calendar",
+                "title": "Tiket & Biaya",
+                "content": {
+                    "domestic": "Rp 30.000",
+                    "foreign": "Rp 50.000",
+                    "children": "Rp 25.000",
+                    "note": "Tiket dapat dibeli langsung di loket masuk. Pembayaran dapat dilakukan dengan tunai atau QRIS."
+                }
+            },
+            {
+                "icon": "Info",
+                "title": "Panduan Kunjungan",
+                "content": [
+                    "Kenakan pakaian yang sopan dan nyaman",
+                    "Bawa air minum dan topi untuk perlindungan dari matahari",
+                    "Sewa pemandu lokal untuk mendapatkan informasi sejarah yang lebih mendalam",
+                    "Waktu kunjungan ideal sekitar 1-2 jam",
+                    "Hormati area suci dan upacara keagamaan yang sedang berlangsung"
+                ]
+            },
+            {
+                "icon": "MapPin",
+                "title": "Transportasi",
+                "content": {
+                    "description": "Goa Gajah terletak sekitar 25 km dari Denpasar dan 5 km dari Ubud. Beberapa opsi transportasi:",
+                    "options": [
+                        "Sewa mobil atau motor dari Denpasar (45 menit)",
+                        "Taksi atau transportasi online dari Ubud (15 menit)",
+                        "Tur terorganisir yang mencakup Goa Gajah"
+                    ]
+                }
+            },
+            {
+                "icon": "MessageSquare",
+                "title": "Layanan Pemandu",
+                "content": {
+                    "description": "Pemandu lokal tersedia di pintu masuk dengan biaya tambahan. Mereka dapat memberikan:",
+                    "services": [
+                        "Penjelasan mendalam tentang sejarah dan makna spiritual",
+                        "Informasi tentang relief dan patung yang ada",
+                        "Bantuan untuk foto dan navigasi di kompleks situs"
+                    ],
+                    "cost": "Biaya pemandu: Rp 100.000 - 150.000 per grup (dapat dinegosiasikan)"
+                }
+            },
+            {
+                "icon": "Utensils",
+                "title": "Fasilitas",
+                "content": [
+                    "Toilet umum",
+                    "Area parkir",
+                    "Warung makan dan minuman",
+                    "Toko suvenir",
+                    "Area istirahat bernaung",
+                    "Jalur yang mudah diakses (sebagian besar area)"
+                ]
+            }
+        ]
+    },
+    "siteName": "Goa Gajah",
+    "description": "Situs warisan budaya yang menakjubkan di Bali, menawarkan pengalaman sejarah dan spiritual yang unik.",
+    "quickLinks": "Tautan Cepat",
+    "about": "Tentang",
+    "gallery": "Galeri",
+    "visitorInfo": "Informasi Pengunjung",
+    "location": "Lokasi",
+    "testimonials": "Testimoni",
+    "newsEvents": "Berita & Acara",
+    "contact": "Kontak",
+    "faq": "FAQ",
+    "contactUs": "Kontak Kami",
+    "address": "Desa Bedulu, Gianyar, Bali 80581",
+    "phone": "+62 361 123456",
+    "email": "info@goagajah.com",
+    "openingHours": "Buka Setiap Hari\n08:00 - 17:00 WITA",
+    "subscribe": "Berlangganan",
+    "subscribeText": "Dapatkan informasi terbaru tentang acara dan berita dari Goa Gajah",
+    "emailPlaceholder": "Email Anda",
+    "send": "Kirim",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsConditions": "Syarat & Ketentuan",
+    "footerText": "&copy; {year} Goa Gajah. Hak Cipta Dilindungi. Dikembangkan oleh Dinas Pariwisata Gianyar."
+}

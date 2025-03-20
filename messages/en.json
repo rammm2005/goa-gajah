@@ -1,0 +1,291 @@
+{
+    "aboutSection": {
+        "title": "About Goa Gajah",
+        "subtitle": "Get to know more about this historic archaeological site that is a cultural heritage of Bali",
+        "sections": [
+            {
+                "title": "History & Heritage",
+                "content": "Goa Gajah, or 'Elephant Cave,' is believed to have been built in the 11th century as a meditation site. This place uniquely blends Hindu and Buddhist influences, reflecting Bali's rich spiritual history. The cave was discovered by Dutch archaeologists in 1923 and later designated as a cultural heritage site."
+            },
+            {
+                "title": "Architecture & Uniqueness",
+                "content": "The impressive entrance of the cave is carved to resemble a giant face (kala), which locals believed resembled an elephant, giving the site its name. Inside the cave, there is a statue of Ganesha and a lingam-yoni, indicating Hindu influences, while the ancient bathing pools with water goddess statues showcase the beauty of ancient Balinese architecture."
+            },
+            {
+                "title": "Spiritual Value",
+                "content": "Even today, Goa Gajah remains a place of religious ceremonies for the Balinese Hindu community. Visitors can witness offerings and rituals performed at several temples within the complex."
+            }
+        ],
+        "galleryButton": "View Gallery"
+    },
+    "gallerySection": {
+        "title": "Goa Gajah Gallery",
+        "subtitle": "The beauty and uniqueness of Goa Gajah through the lens",
+        "images": [
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Entrance+Carving",
+                "alt": "Goa Gajah Entrance Carving",
+                "title": "Entrance Carving"
+            },
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Ancient+Bathing+Pools",
+                "alt": "Ancient Bathing Pools",
+                "title": "Ancient Bathing Pools"
+            },
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Inside+The+Cave",
+                "alt": "Inside the Cave",
+                "title": "Inside the Cave"
+            },
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Ganesh+Statue",
+                "alt": "Ganesh Statue",
+                "title": "Ganesh Statue"
+            },
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Temple+Courtyard",
+                "alt": "Temple Courtyard",
+                "title": "Temple Courtyard"
+            },
+            {
+                "src": "/placeholder.svg?height=600&width=800&text=Surrounding+Nature",
+                "alt": "Nature Around Goa Gajah",
+                "title": "Surrounding Nature"
+            }
+        ],
+        "viewAllButton": "View All Photos"
+    },
+    "heroSection": {
+        "title": "Discover the Beauty of",
+        "subtitle": "Goa Gajah",
+        "description": "Explore the wonders of ancient archaeology and spiritual beauty at Goa Gajah, a magnificent cultural heritage site in Bali.",
+        "learnMoreButton": "Learn More",
+        "visitPlanButton": "Plan Your Visit",
+        "infoCards": [
+            {
+                "icon": "Clock",
+                "title": "Opening Hours",
+                "description": "08:00 - 17:00 WITA"
+            },
+            {
+                "icon": "MapPin",
+                "title": "Location",
+                "description": "Bedulu Village, Gianyar, Bali"
+            },
+            {
+                "icon": "Calendar",
+                "title": "Entrance Ticket",
+                "description": "Rp 50,000 (Adults) / Rp 25,000 (Children)"
+            }
+        ]
+    },
+    "visit-now": "Visit Now",
+    "navLinks": {
+        "about": {
+            "href": "#about",
+            "label": "About"
+        },
+        "gallery": {
+            "href": "#gallery",
+            "label": "Gallery"
+        },
+        "visitorInfo": {
+            "href": "#visitor-info",
+            "label": "Visitor Information"
+        },
+        "location": {
+            "href": "#location",
+            "label": "Location"
+        },
+        "testimonials": {
+            "href": "#testimonials",
+            "label": "Testimonials"
+        }
+    },
+    "mapSection": {
+        "title": "Location",
+        "text-map": "Goa Gajah Cave",
+        "link-map": "https://maps.app.goo.gl/Rw11P9wpc6sur1Fa9",
+        "subtitle": "Find your way to Goa Gajah in Bedulu Village, Gianyar, Bali",
+        "address": {
+            "title": "Address",
+            "description": "Goa Gajah, Jalan Raya Goa Gajah, Bedulu Village, Blahbatuh District, Gianyar Regency, Bali 80581"
+        },
+        "distances": {
+            "title": "Distance from Popular Locations",
+            "items": {
+                "airport": {
+                    "from": "From Ngurah Rai Airport",
+                    "distance": "±40 km (1.5 hours)"
+                },
+                "denpasar": {
+                    "from": "From Denpasar",
+                    "distance": "±25 km (45 minutes)"
+                },
+                "ubud": {
+                    "from": "From Ubud",
+                    "distance": "±5 km (15 minutes)"
+                },
+                "kuta": {
+                    "from": "From Kuta",
+                    "distance": "±35 km (1 hour)"
+                }
+            }
+        },
+        "nearbyAttractions": {
+            "title": "Nearby Attractions",
+            "items": {
+                "yehPulu": {
+                    "name": "Yeh Pulu",
+                    "description": "Ancient rock relief (±2 km)"
+                },
+                "museumBedulu": {
+                    "name": "Bedulu Archaeological Museum",
+                    "description": "Archaeological museum (±1 km)"
+                },
+                "puraSamuanTiga": {
+                    "name": "Samuan Tiga Temple",
+                    "description": "Historical temple (±3 km)"
+                }
+            }
+        }
+    },
+    "testimonialsSection": {
+        "title": "Visitor Testimonials",
+        "subtitle": "What visitors say about Goa Gajah",
+        "testimonials": [
+            {
+                "name": "Budi Santoso",
+                "location": "Jakarta, Indonesia",
+                "rating": 5,
+                "comment": "A very historic and interesting place. The guide was very knowledgeable and explained the history in detail. Highly recommended for history and culture lovers."
+            },
+            {
+                "name": "Sarah Johnson",
+                "location": "Sydney, Australia",
+                "rating": 4,
+                "comment": "A fascinating historical site with beautiful carvings. The bathing pools were particularly interesting. Would recommend visiting early in the morning to avoid crowds."
+            },
+            {
+                "name": "Putu Ayu",
+                "location": "Denpasar, Bali",
+                "rating": 5,
+                "comment": "As a Balinese, I am always proud of cultural heritage like Goa Gajah. This place holds significant spiritual and historical value that must be preserved."
+            },
+            {
+                "name": "Hiroshi Tanaka",
+                "location": "Tokyo, Japan",
+                "rating": 4,
+                "comment": "A very interesting historical site. The entrance to the cave is impressive with its detailed carvings. The surrounding area is also beautiful with lush greenery."
+            },
+            {
+                "name": "Maria Garcia",
+                "location": "Barcelona, Spain",
+                "rating": 5,
+                "comment": "An incredible archaeological site! I was amazed by the ancient bathing pools and the cave temple. The local guide provided excellent information about the history and significance."
+            },
+            {
+                "name": "Wayan Dharma",
+                "location": "Gianyar, Bali",
+                "rating": 5,
+                "comment": "As a local guide, I always enjoy seeing visitors interested in the history of Goa Gajah. This place has great value for the Balinese community."
+            }
+        ]
+    },
+    "visitorInfoSection": {
+        "title": "Visitor Information",
+        "subtitle": "Everything you need to know to plan your visit to Goa Gajah",
+        "infoCards": [
+            {
+                "icon": "Clock",
+                "title": "Opening Hours",
+                "content": {
+                    "days": "Monday - Sunday",
+                    "hours": "08:00 - 17:00 WITA",
+                    "note": "It is recommended to visit in the morning to avoid crowds and hot weather."
+                }
+            },
+            {
+                "icon": "Calendar",
+                "title": "Tickets & Fees",
+                "content": {
+                    "domestic": "Rp 30,000",
+                    "foreign": "Rp 50,000",
+                    "children": "Rp 25,000",
+                    "note": "Tickets can be purchased directly at the entrance counter. Payments can be made in cash or via QRIS."
+                }
+            },
+            {
+                "icon": "Info",
+                "title": "Visitor Guidelines",
+                "content": [
+                    "Wear modest and comfortable clothing",
+                    "Bring drinking water and a hat for sun protection",
+                    "Hire a local guide for a deeper historical understanding",
+                    "Ideal visit duration is around 1-2 hours",
+                    "Respect sacred areas and ongoing religious ceremonies"
+                ]
+            },
+            {
+                "icon": "MapPin",
+                "title": "Transportation",
+                "content": {
+                    "description": "Goa Gajah is located about 25 km from Denpasar and 5 km from Ubud. Transportation options:",
+                    "options": [
+                        "Rent a car or motorbike from Denpasar (45 minutes)",
+                        "Taxi or online transportation from Ubud (15 minutes)",
+                        "Organized tours that include Goa Gajah"
+                    ]
+                }
+            },
+            {
+                "icon": "MessageSquare",
+                "title": "Guide Services",
+                "content": {
+                    "description": "Local guides are available at the entrance for an additional fee. They can provide:",
+                    "services": [
+                        "In-depth explanations about the history and spiritual significance",
+                        "Information about the carvings and statues",
+                        "Assistance with photos and site navigation"
+                    ],
+                    "cost": "Guide fee: Rp 100,000 - 150,000 per group (negotiable)"
+                }
+            },
+            {
+                "icon": "Utensils",
+                "title": "Facilities",
+                "content": [
+                    "Public restrooms",
+                    "Parking area",
+                    "Food and drink stalls",
+                    "Souvenir shops",
+                    "Shaded resting areas",
+                    "Easily accessible pathways (most areas)"
+                ]
+            }
+        ]
+    },
+    "siteName": "Goa Gajah",
+    "description": "A stunning cultural heritage site in Bali, offering a unique historical and spiritual experience.",
+    "quickLinks": "Quick Links",
+    "about": "About",
+    "gallery": "Gallery",
+    "visitorInfo": "Visitor Info",
+    "location": "Location",
+    "testimonials": "Testimonials",
+    "newsEvents": "News & Events",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "contactUs": "Contact Us",
+    "address": "Bedulu Village, Gianyar, Bali 80581",
+    "phone": "+62 361 123456",
+    "email": "info@goagajah.com",
+    "openingHours": "Open Every Day\n08:00 - 17:00 WITA",
+    "subscribe": "Subscribe",
+    "subscribeText": "Get the latest updates on events and news from Goa Gajah",
+    "emailPlaceholder": "Your Email",
+    "send": "Send",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "footerText": "&copy; {year} Goa Gajah. All Rights Reserved. Developed by Gianyar Tourism Department."
+}

@@ -1,0 +1,131 @@
+{
+    "history": {
+        "title": "Sejarah Tari Kecak Sahadewa ring Pura Puseh",
+        "description": "Tari Kecak Sahadewa sampun ngadeg saking 34 warsa sane lampau, kakelola olih Dewa Teges sane mawit tujuan nyarengin tur ngalimbakang seni tari tradisional Bali. Tari Kecak Sahadewa mapidarta ring Pura Puseh Batubulan."
+    },
+    "footer": {
+        "title": "Kecak Sahadewa",
+        "contact": "Kontak : ",
+        "slogan": "Ngawetang warisan budaya Bali saking warsa 1972.",
+        "hak-cipta": "Sane pacang ngardi hak cipta kaayuban."
+    },
+    "about": {
+        "title": "Sejarah Tari Kecak Sahadewa",
+        "sub-title": "ring Pura Puseh",
+        "content": {
+            "title": "Sanggar Sahadewa",
+            "sub-desc": "Sanggar Sahadewa, minab dadine sanggar seni, sampun kaadeg olih I Dewa Nyoman Oka ring tanggal 1 April 1972. Salami langkung saking limang dasa warsa, sanggar puniki sampun ngawetang tur mapidarta tradisi seni pertunjukan Bali sane luwar biasane, utamane tari Kecak sane memikat."
+        },
+        "founder": {
+            "as": "Pangadeg",
+            "name": "I Dewa Nyoman Oka",
+            "since": "(1923 - 1999)",
+            "description": "Mangkin, Sanggar Sahadewa terus ngalimbak ring bawah pengelolaan generasi kaping kalih, I Dewa Made Teges Wirawan, sane ngemangguhin ngelestariang warisan budaya miwah kaunggulan artistik sane sampun kabangun olih penglingsir ipun."
+        },
+        "co-founder": {
+            "as": "Pangurus Mangkin",
+            "image": "/image/founder-1.jpg",
+            "current": "Pangurus Mangkin",
+            "name": "I Dewa Made Teges Wirawan",
+            "description": "Generasi ka-II"
+        },
+        "show": {
+            "title": "Pagelaran Tari Kecak Saben Rahina",
+            "description": "Sanggar Sahadewa terus ngadengin pagelaran tari Kecak sane otentik saben rahina, ngawetang tradisi budaya sane penting ring krama lokal miwah para wisatawan.",
+            "showing": "Waktu Pagelaran",
+            "time": "18.30 - 19.30 WITA",
+            "note": "(Pementasan Kecak kabakta saben wengi.)"
+        }
+    },
+    "blog": {
+        "read_now": "Maca Mangkin",
+        "min_read": "{count} menit maca",
+        "category": "Kategori",
+        "description": "Penyarengan",
+        "title": "Judul",
+        "home": "Beranda",
+        "blog": "Blog",
+        "back_to_articles": "Mawali ring Artikel"
+    },
+    "blog-posts": {
+        "1": {
+            "title": "Tari Kecak miwah Shanghyang Jaran ring Batubulan",
+            "description": "Tari Kecak sampun ada saking warsa 1930, I Wayan Limbak inggih punika tokoh sane ring balik kelahirannyane tari kecak sane mawi saking Bedulu, Gianyar. Tari kecak ring awalipun kaanggo olih para petani kangge matur suksma pangan miwah nyuun udan miwah kerahajengan, taler sakitar warsa 1991 miwah mulai kauningang ring desa Batubulan, mawit kombinasi tari shanghyang dedari miwah shanghyang jaran sane kauningang ring para wisatawan.",
+            "category": "Kecak",
+            "readTime": "5 menit maca",
+            "place": "Pura Puseh, Batubulan",
+            "direction": "https://maps.app.goo.gl/jiPDJnAdWz1b7a1cA",
+            "kecak_and_sanghyang_dance": {
+                "title": "Tari Kecak miwah Sanghyang",
+                "content": {
+                    "h1": {
+                        "title": "Tari Kecak",
+                        "description": "Kecak inggih punika tari Bali sane pinaka unik karana tan mawiang gamelan nanging mawinan olih paduan suara pria sane tanpa busana. Tari puniki mawi saking tarian ritual kuno \"Sanghyang\", tarian trance ring pengawi dados media kangge komunikasi sareng para dewa utawi roh leluhur tur nyarengin pesanne.",
+                        "h2": {
+                            "title": "Kisah Ramayana ring Tari Kecak",
+                            "description": "Tari puniki mawinan kisah Ramayana rikala istri Pangeran Rama, Dewi Sita, kaalingan olih Raja Rahwana sane jahat. Kairing olih paduan suara pria, tari puniki nyaritayang indikang Rama sareng bantuan Hanoman, dewa kera, kasukseran ngalahang Rahwana tur nylametang Sita.",
+                            "h3": {
+                                "title": "Babak ring Tari Kecak",
+                                "h4": [
+                                    {
+                                        "title": "Babak 1. Rama, Sita, miwah rusa emas",
+                                        "image": "/image/hanuman-sinta-trijata.jpg",
+                                        "description": "Rama, Sita, miwah Laksmana matumbasan arena. Mangda teka rusak emas. Sita nyuun Rama mangde ngae rusak punika. Rama ninggalang Sita ring bawah pengawalan Laksmana. Tan kentenan kedengang suara nyuun tulung. Sita nganggep punika suaran Rama tur nyuun Laksmana mangda ngewantuang. Rikala awal, Laksmana nyingakin ninggalangne sane dewek."
+                                    },
+                                    {
+                                        "title": "Babak 2. Sita miwah Rahwana",
+                                        "image": "/image/kecak-slider.jpg",
+                                        "description": "Rahwana matumbasan, nyaling, miwah ngaba Sita ka istanane ring Alengka."
+                                    },
+                                    {
+                                        "title": "Babak 3. Sita, Trijata, miwah Hanoman",
+                                        "image": "/image/hanuman-sinta-trijata.jpg",
+                                        "description": "Duanin olih Trijata, ponakannye Rahwana, Sita ngelungsurang nasibne ring taman istanane Rahwana. Hanoman (kera putih) matumbasan. Ia mawarah Sita yen ia utusan Rama miwah nunasang cingak Ramane. Sita ngaryanin tusuk konde ring Hanoman mangda kasampetang ring Rama sareng pesan yen ia melinggih ngantos nylamatang."
+                                    },
+                                    {
+                                        "title": "Babak 4. Rama, Meganada, miwah Garuda",
+                                        "image": "/image/garuda.jpg",
+                                        "description": "Mawinan peperangan Rama lawan Meganada, putran Rahwana. Meganada nembak Rama sareng panah magis sane dadi naga tur ngiket Rama. Ring rasa putus asa, Rama manyuut Garuda, sekutune. Garuda matumbasan tur ngebebasang Rama saking naga."
+                                    },
+                                    {
+                                        "title": "Babak 5. Rama, Sugriwa, miwah Meganada",
+                                        "image": "/image/Rama, Sugriwa, dan Meganada.jpg",
+                                        "description": "Sugriwa, rajan kera, matumbasan. Peperangan antuk Sugriwa miwah Meganada kedadosan. Pagelaran mawinan sareng kasukseran pihak Rama. Akhiripun, Rama, Sita, miwah Laksmana matut labuh sareng bagia."
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "h1_2": {
+                        "title": "Tari Sanghyang Dedari",
+                        "image": "/image/shanghyang-dedari.webp",
+                        "description": "Tari Sanghyang nglimbak saking fungsi religius dasarnya kangge ngejaga kesehatan miwah kerahajengan desa. Tari puniki kakaryanang kangge ngusak roh jahat mangda tan ngupadina krama ring wujud penyakit utawi pati.",
+                        "h2": {
+                            "title": "Ritual Tari Sanghyang Dedari",
+                            "description": "Tari Sanghyang Dedari inggih punika tarian ritual sane kaanggep roh suci medasar nurun ring desa tur medem ring pengawi sane trance. Sanghyang ngawit \"jujur\" miwah inggih punika roh suci sane becik pisan. Dedari ngawit \"bidadari\" tur mawinan upacara trance.",
+                            "h3": {
+                                "title": "Pagelaran Tari Sanghyang Dedari",
+                                "description": "Ditari olih dua gadis alit sane tan mawi hiasan. Kangge anak gadis, puniki kaanggep suci. Ring Sanghyang, rikala para pengawi ngalaksanayang trance sadurung nari, upacara ngawit ring pura tur ngelanjutin sareng prosesi madu ring tempat pagelaran.",
+                                "h4": {
+                                    "title": "Trance miwah Pemberkatan",
+                                    "description": "Ring antaran paduan suara wanita miwah pria, pengawi alit medaging bebas ring versi impian saking tari legong. Gerenge terus berlanjut secara otomatis sanadyan sane dewek sadar ring pagelaran. Rikala kidung meten, para gadis mebalih ring tanah. Ipun kabangun saking trance olih Pemangku sane meduara ring samping tur ngaryanin berkah sareng toya suci."
+                                }
+                            }
+                        }
+                    },
+                    "h1_3": {
+                        "title": "Tari Sanghyang Jaran",
+                        "image": "/image/shanghyang-jaran-1.jpg",
+                        "description": "Pengawi lanang sane trance nari ring jaran. Mabuat kaya jaran, ia nari ngubeng api unggun saking tempurung nyuh. Kidung Sanghyang mawinan ia madu ring api, terus ia nari ring api."
+                    }
+                }
+            },
+            "content": "Tari Kecak inggih punika salah silih saking tarian tradisional Bali sane kaloktah pisan. Tari puniki biasane mapidarta ring pura utawi tempat tedung, miwah mawi puluhan utawi malahan atus pengawi sane magentuk lingkaran."
+        }
+    },
+    "search": {
+        "search_placeholder": "Ngubuh artikel...",
+        "search_title": "Ngubuh Cerita",
+        "no_results": "Tanpa asil ketemu"
+    }
+}
