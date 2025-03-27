@@ -7,6 +7,7 @@ import { useTranslations } from "next-intl"
 
 export function AboutSection() {
     const t = useTranslations("aboutSection")
+    const pohon = useTranslations("pohon")
     const sections = t.raw("sections");
 
     console.log(t);
@@ -26,7 +27,7 @@ export function AboutSection() {
                         <div className="absolute -top-4 -left-4 w-24 h-24 border-t-2 border-l-2 border-primary/30" />
                         <div className="absolute -bottom-4 -right-4 w-24 h-24 border-b-2 border-r-2 border-primary/30" />
                         <Image
-                            src="/placeholder.svg?height=600&width=800"
+                            src="/image/pohon.JPG"
                             alt="photo"
                             width={800}
                             height={600}
@@ -42,6 +43,16 @@ export function AboutSection() {
                                 <p className="mt-3 text-muted-foreground leading-relaxed text-sm md:text-base">{section.content}</p>
                             </div>
                         ))}
+
+                        {/* Tambahan cerita tentang pohon berusia 1000 tahun di Goa Gajah */}
+                        <div>
+                            <h3 className="text-xl md:text-2xl font-bold font-serif text-primary">{pohon("title")}</h3>
+                            <p className="mt-3 text-muted-foreground leading-relaxed text-sm md:text-base">{pohon("subtitle")}</p>
+                            <div className="h-1 w-16 bg-primary/30 my-3" />
+                            <p className="mt-3 text-muted-foreground leading-relaxed text-sm md:text-base">
+                                {pohon("content")}
+                            </p>
+                        </div>
 
                         <div className="flex justify-center lg:justify-start">
                             <Button variant="outline" className="mt-6 group" asChild>

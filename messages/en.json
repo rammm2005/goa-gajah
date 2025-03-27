@@ -1,4 +1,9 @@
 {
+    "pohon": {
+        "title": "About Us",
+        "subtitle": "Ancient Tree in Goa Gajah",
+        "content": "Within the sacred grounds of Goa Gajah, there stands an ancient tree that has lived for over 1,000 years. This tree has silently witnessed the historical and spiritual journey of this place. Its sprawling roots are believed to connect the human world with the mystical realm. Many visitors come to experience the energy and serenity of this ancient tree."
+    },
     "aboutSection": {
         "title": "About Goa Gajah",
         "subtitle": "Get to know more about this historic archaeological site that is a cultural heritage of Bali",
@@ -23,32 +28,32 @@
         "subtitle": "The beauty and uniqueness of Goa Gajah through the lens",
         "images": [
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Entrance+Carving",
+                "src": "/image/pancuran-goa-gajah.jpg?height=600&width=800&text=Entrance+Carving",
                 "alt": "Goa Gajah Entrance Carving",
                 "title": "Entrance Carving"
             },
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Ancient+Bathing+Pools",
+                "src": "/image/goa-gajah.jpg?height=600&width=800&text=Ancient+Bathing+Pools",
                 "alt": "Ancient Bathing Pools",
                 "title": "Ancient Bathing Pools"
             },
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Inside+The+Cave",
+                "src": "/image/goa-gajah-5.jpg?height=600&width=800&text=Inside+The+Cave",
                 "alt": "Inside the Cave",
                 "title": "Inside the Cave"
             },
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Ganesh+Statue",
+                "src": "/image/goa-gajah copy.jpg?height=600&width=800&text=Ganesh+Statue",
                 "alt": "Ganesh Statue",
                 "title": "Ganesh Statue"
             },
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Temple+Courtyard",
+                "src": "/image/goa-gajah-2.jpg?height=600&width=800&text=Temple+Courtyard",
                 "alt": "Temple Courtyard",
                 "title": "Temple Courtyard"
             },
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Surrounding+Nature",
+                "src": "/image/goa-gajah-4.jpg?height=600&width=800&text=Surrounding+Nature",
                 "alt": "Nature Around Goa Gajah",
                 "title": "Surrounding Nature"
             }

@@ -1,4 +1,15 @@
 {
+    "pohon": {
+        "title": "Tentang Kami",
+        "subtitle": "Jelajahi sejarah dan esensi dari tempat suci ini",
+        "sections": [
+            {
+                "title": "Pohon Kuno di Goa Gajah",
+                "content": "Di dalam area suci Goa Gajah, terdapat sebuah pohon kuno yang telah hidup selama lebih dari 1.000 tahun. Pohon ini menjadi saksi bisu perjalanan sejarah dan spiritual di tempat ini. Akar-akarnya yang menjalar diyakini sebagai penghubung antara dunia manusia dan alam gaib. Banyak pengunjung yang datang untuk merasakan energi dan ketenangan dari pohon purba ini."
+            }
+        ],
+        "galleryButton": "Lihat Galeri"
+    },
     "aboutSection": {
         "title": "Tentang Goa Gajah",
         "subtitle": "Mengenal lebih dekat situs arkeologi bersejarah yang menjadi warisan budaya Bali",
@@ -23,32 +34,32 @@
         "subtitle": "Keindahan dan keunikan Goa Gajah melalui lensa kamera",
         "images": [
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Entrance+Carving",
+                "src": "/image/pancuran-goa-gajah.jpg?height=600&width=800&text=Entrance+Carving",
                 "alt": "Ukiran Pintu Masuk Goa Gajah",
                 "title": "Ukiran Pintu Masuk"
             },
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Ancient+Bathing+Pools",
+                "src": "/image/goa-gajah-5.jpg?height=600&width=800&text=Ancient+Bathing+Pools",
                 "alt": "Kolam Pemandian Kuno",
                 "title": "Kolam Pemandian Kuno"
             },
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Inside+The+Cave",
+                "src": "/image/goa-gajah copy.jpg?height=600&width=800&text=Inside+The+Cave",
                 "alt": "Bagian Dalam Goa",
                 "title": "Bagian Dalam Goa"
             },
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Ganesh+Statue",
+                "src": "/image/goa-gajah-2.jpg?height=600&width=800&text=Ganesh+Statue",
                 "alt": "Patung Ganesha",
                 "title": "Patung Ganesha"
             },
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Temple+Courtyard",
+                "src": "/image/goa-gajah-4.jpg?height=600&width=800&text=Temple+Courtyard",
                 "alt": "Halaman Pura",
                 "title": "Halaman Pura"
             },
             {
-                "src": "/placeholder.svg?height=600&width=800&text=Surrounding+Nature",
+                "src": "/image/goa-gajah-3.jpg?height=600&width=800&text=Surrounding+Nature",
                 "alt": "Alam Sekitar Goa Gajah",
                 "title": "Alam Sekitar"
             }
